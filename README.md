@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **professionalism submerges**
 
-- 💬 Ask me about **c programming,Python,Jawa Scipt**
+- 💬 Ask me about **c programming,Python,Jawa Script, HTML,CSS**
 
 - 📫 How to reach me **itsabdulrehman22@gmail.com**
 
